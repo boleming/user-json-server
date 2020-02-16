@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "李四",
+      "phone": "182-0011-4323",
+      "email": "1981887601@qq.com",
+      "sex": "男",
+      "age": "26",
+      "id": 2
+    },
+    {
+      "name": "王二",
+      "phone": "182-5244-6565",
+      "sex": "女",
+      "age": "30",
+      "email": "87988794@qq.com",
+      "id": 3,
+      "companyId": 3
+    },
+    {
+      "name": "张三",
+      "phone": "182-1364-1689",
+      "email": "789798789@qq.com",
+      "sex": "男",
+      "age": "20",
+      "id": 4
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is good!"
+    },
+    {
+      "id": 2,
+      "name": "huawei",
+      "description": "huawei is good!"
+    },
+    {
+      "id": 3,
+      "name": "tengxun",
+      "description": "tengxun is good!"
+    }
+  ]
+}
