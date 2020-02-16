@@ -1,5 +1,33 @@
 ## json-server一个没有后端代码，但能实现数据增删查改的数据接口
+#### 如何安装并运行：
+1. 全局安装：
+```
+npm install -g json-server
+```
+2. 切换盘符：
+```
+cd F:(具体路径）
 
+F:
+```
+3. 安装json-server：(所有属性选择均回即可)
+```
+npm init
+```
+4. 初始化json-server：
+```
+npm install json-server --save
+```
+5. 配置package.json:
+```
+"scripts": {
+  "json:server": "json-server --watch mv.json"
+}
+```
+6.运行代码：
+```
+npm run json:server
+```
 #### 接口示例：（先运行接口才行）
 1. 获取所有用户信息
 http://localhost:3000/users
