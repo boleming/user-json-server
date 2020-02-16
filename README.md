@@ -27,3 +27,4 @@ http://localhost:3000/users?age_gte=25&age_lte=40
 http://localhost:3000/users?q=30
 #### 具体效果图：
 ![image](https://raw.githubusercontent.com/boleming/user-json-server/master/imgs/data1.png)
+![image](https://raw.githubusercontent.com/boleming/user-json-server/master/imgs/data2.png)
